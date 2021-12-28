@@ -2,7 +2,7 @@
 <a href="mailto:ott.alexander.2006@gmail.com?">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1640725265~hmac=837cbccc4e81c387992de7e355003eda" />
 </a>
-<a href="https://twitter.com/@Alexand84162538">
+<a href="https://twitter.com/@Al06ex">
   <img align="left" alt="Alexander Ott | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
