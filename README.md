@@ -1,35 +1,46 @@
-<h3 align="center">Hey there, I'm <a href="https://github.com/Al6ex">Alex</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="mailto:ott.alexander.2006@gmail.com?">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1640725265~hmac=837cbccc4e81c387992de7e355003eda" />
+</a>
+<a href="https://twitter.com/@Alexand84162538">
+  <img align="left" alt="Alexander Ott | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img align="left" alt="Alex's Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1640725098~hmac=1e7f108d68964c111b1e937162a6f1e0" />
+</a>
+<a href="https://open.spotify.com/user/pk9rgm4qbtri43yz3lv0azajl?si=3e9d79d6b74e4d1e">
+  <img align="left" alt="Alex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Al6ex"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Al6ex?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>  
-  <a href="https://open.spotify.com/user/pk9rgm4qbtri43yz3lv0azajl?si=3e9d79d6b74e4d1e" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-</p>
+![](https://visitor-badge.glitch.me/badge?page_id=Al6ex)
+<br />
 
-<h2 align="center">👨🏻‍💻 About Me:</h2>
-<p align="center">
-My name is Alex and I'm 15 years old <br>
-Learning programming language <br>
-Know three spoken languages <br>
-Always ready to learn new things<br>
-</p>
+hi, i'm Alexander Ott, I am now in the 9th grade at school, I am learning programming languages ​​as I want to become a programmer after graduation. I know 3 languages: German, English and Russian. I teach everything very quickly and I will catch up with everyone 😉
 
-<h3 align="center">
-
-💻 I work using: 
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+My achievements in the IT world are not very great now, I am working to improve my knowledge in the field of Back-End and Front-End development. Now I am studying at the Academy of Programming and am planning further training.
 
 
-<p align="center">
-  <a href="https://t.me/Al06ex"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href=mailto:ott.alexander.2006@gmail.com?><img alt="GMAIL" title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 ask me about anything, i am happy to help, how i can 🙃
 
-<h3 align="center">Here you can also see <a href="https://github.com/Al6ex?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+**languages and tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Al6ex&show_icons=true&theme=light" alt="abhisheknaiidu" />
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Python    6 hr 30 mins    ███████████████▒░░░░░░░░░   42.87% 
+HTML      3 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
+CSS       3 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   27.87 % 
+```
+<!--END_SECTION:waka-->
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Al6ex&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
