@@ -1,12 +1,12 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="mailto:ott.alexander.2006@gmail.com?">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1640725265~hmac=837cbccc4e81c387992de7e355003eda" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://img.icons8.com/color/344/discord-logo.png" />
 </a>
 <a href="https://twitter.com/@Al06ex">
   <img align="left" alt="Alexander Ott | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <img align="left" alt="Alex's Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1640725098~hmac=1e7f108d68964c111b1e937162a6f1e0" />
+  <img align="left" alt="Alex's Telegram" width="22px" src="https://img.icons8.com/fluency/344/telegram-app.png" />
 </a>
 <a href="https://open.spotify.com/user/pk9rgm4qbtri43yz3lv0azajl?si=3e9d79d6b74e4d1e">
   <img align="left" alt="Alex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
