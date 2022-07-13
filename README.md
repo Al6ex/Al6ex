@@ -9,7 +9,7 @@
   <img align="left" alt="Alex's Telegram" width="22px" src="https://img.icons8.com/fluency/344/telegram-app.png" />
 </a>
 <a href="https://open.spotify.com/user/pk9rgm4qbtri43yz3lv0azajl?si=3e9d79d6b74e4d1e">
-  <img align="left" alt="Alex's Spotify" width="22px" src="https://www.flaticon.com/ru/premium-icon/spotify_2585161?term=spotify&page=1&position=5&page=1&position=5&related_id=2585161&origin=tag#" />
+  <img align="left" alt="Alex's Spotify" width="22px" src="https://www.flaticon.com/ru/premium-icon/spotify_2585161?term=spotify&page=1&position=5&page=1&position=5&related_id=2585161&origin=tag#](https://commons.wikimedia.org/wiki/File:Spotify_logo_without_text.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Al6ex)
