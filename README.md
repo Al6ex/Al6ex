@@ -3,7 +3,7 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://img.icons8.com/color/344/discord-logo.png" />
 </a>
 <a href="https://twitter.com/@Al06ex">
-  <img align="left" alt="Alexander Ott | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Alexander Ott | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" />
 </a>
 <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <img align="left" alt="Alex's Telegram" width="22px" src="https://img.icons8.com/fluency/344/telegram-app.png" />
