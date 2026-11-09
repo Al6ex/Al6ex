@@ -13,9 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Al6ex)
 <br />
 
-hi, i'm Alexander Ott, I am now in the 10th grade at school, I am learning programming languages ​​as I want to become a programmer after graduation. I know 3 languages: German, English and Russian. I teach everything very quickly and I will catch up with everyone 😉
 
-My achievements in the IT world are not very great now, I am working to improve my knowledge in the field of Back-End and Front-End development. Now I am studying at the Academy of Programming and am planning further training.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
